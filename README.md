@@ -8,7 +8,7 @@ git clone https://github.com/ksingh7/racing-game-app-openshift.git
 cd racing-game-app-openshift
 git checkout dev
 ```
-Make your local changes here
+Make your local changes
 ```
 git add . ; git commit -am "fixes or new feature" ; git push origin dev
 ```
